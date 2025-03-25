@@ -1,8 +1,9 @@
 [package]
-name = "comp"
+name = "oc"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
 leptos = { version = "0.7.0" }
+leptos_meta = "0.7.8"
 leptos_router = { version = "0.7.0" }

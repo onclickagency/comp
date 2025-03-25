@@ -1,0 +1,9 @@
+:root {
+  --color-primary: #007bff;
+  --color-secondary: #6c757d;
+
+  --font-body: "Inter", sans-serif;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --btn-radius: 4px;
+}
